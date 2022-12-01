@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frm_Administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_AltaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Alumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_AlumnosInscriptos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_AsignarProfesorACorrelativa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_AsignarProfesorAMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_AsistenciaEnCorrelativa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_AsistenciaEnMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_CrearExamenCorrelativa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_CrearExamenMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_CrearMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_ExportarDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_IngresarNota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_IngresarNotaCorrelativa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_InscribirseAMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_MateriasCursadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_MateriasYAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_ModificarEstado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_ModificarEstadoCorrelativa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_OpcionesAlCrearExamen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_OpcionesAlDarAsistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_OpcionesMateriaAsignarProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_OpcionesParaIngresarNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Profesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
