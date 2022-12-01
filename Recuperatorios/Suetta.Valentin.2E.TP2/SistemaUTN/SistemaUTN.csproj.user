@@ -37,6 +37,9 @@
     <Compile Update="frm_ExportarDatos.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frm_ImportarAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="frm_IngresarNota.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -41,5 +41,25 @@ namespace Entidades.Agrupacion
                 throw;
             }
         }
+
+        /// <summary>
+        /// METODO QUE SE ENCARGA DE DESERIALIZAR UN ARCHIVO DE TIPO JSON
+        /// </summary>
+        /// <param name="path"></param>
+        /// <returns></returns>
+        public T DeserializarJSON(string path)
+        {
+            string pathEscritorio = $"{this.pathEscritorio}\\{path}";
+            try
+            {
+                string jsonString = File.ReadAllText(pathEscritorio);
+                T? objeto = JsonSerializer.Deserialize<T>(jsonString);
+                return objeto;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
     }
 }

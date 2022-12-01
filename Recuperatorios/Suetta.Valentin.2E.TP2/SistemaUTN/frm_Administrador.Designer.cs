@@ -34,6 +34,7 @@
             this.btn_AsignarProfesores = new System.Windows.Forms.Button();
             this.btn_SalirDelForm = new System.Windows.Forms.Button();
             this.btn_ExportarDatos = new System.Windows.Forms.Button();
+            this.btn_ImportarDatos = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btn_DarDeAltaUsuario
@@ -104,7 +105,7 @@
             this.btn_SalirDelForm.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_SalirDelForm.Font = new System.Drawing.Font("Arial Unicode MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btn_SalirDelForm.ForeColor = System.Drawing.Color.Transparent;
-            this.btn_SalirDelForm.Location = new System.Drawing.Point(116, 333);
+            this.btn_SalirDelForm.Location = new System.Drawing.Point(116, 390);
             this.btn_SalirDelForm.Name = "btn_SalirDelForm";
             this.btn_SalirDelForm.Size = new System.Drawing.Size(253, 32);
             this.btn_SalirDelForm.TabIndex = 4;
@@ -127,13 +128,29 @@
             this.btn_ExportarDatos.UseVisualStyleBackColor = false;
             this.btn_ExportarDatos.Click += new System.EventHandler(this.btn_ExportarDatos_Click);
             // 
+            // btn_ImportarDatos
+            // 
+            this.btn_ImportarDatos.BackColor = System.Drawing.Color.Black;
+            this.btn_ImportarDatos.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
+            this.btn_ImportarDatos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_ImportarDatos.Font = new System.Drawing.Font("Arial Unicode MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btn_ImportarDatos.ForeColor = System.Drawing.Color.Transparent;
+            this.btn_ImportarDatos.Location = new System.Drawing.Point(116, 335);
+            this.btn_ImportarDatos.Name = "btn_ImportarDatos";
+            this.btn_ImportarDatos.Size = new System.Drawing.Size(253, 32);
+            this.btn_ImportarDatos.TabIndex = 6;
+            this.btn_ImportarDatos.Text = "Importar datos";
+            this.btn_ImportarDatos.UseVisualStyleBackColor = false;
+            this.btn_ImportarDatos.Click += new System.EventHandler(this.btn_ImportarDatos_Click);
+            // 
             // frm_Administrador
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DimGray;
             this.BackgroundImage = global::SistemaUTN.Properties.Resources.Oscuro1;
-            this.ClientSize = new System.Drawing.Size(488, 393);
+            this.ClientSize = new System.Drawing.Size(488, 462);
+            this.Controls.Add(this.btn_ImportarDatos);
             this.Controls.Add(this.btn_ExportarDatos);
             this.Controls.Add(this.btn_SalirDelForm);
             this.Controls.Add(this.btn_AsignarProfesores);
@@ -158,5 +175,6 @@
         private Button btn_AsignarProfesores;
         private Button btn_SalirDelForm;
         private Button btn_ExportarDatos;
+        private Button btn_ImportarDatos;
     }
 }

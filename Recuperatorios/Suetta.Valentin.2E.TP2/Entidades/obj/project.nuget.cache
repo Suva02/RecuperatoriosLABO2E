@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vO/IGNOEfEoJUmHJqAJzqJV2mT9ondx70ggDO6MX+Oumc2t6X8cwp3w1e1VkMbzQeiYjcyT2L5J/5PgQjoGSOA==",
+  "dgSpecHash": "ZB90QP7lCd81wbtPmkMuoeQ+iq5dhOeADDr6OeNEzbrQC2G/8HmhI3xOdAlM1+COqGo31gNLJveH9XD601HI7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suett\\OneDrive\\Escritorio\\PARCIALES\\Suetta.Valentin.2E\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suett\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\suett\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -18,6 +18,7 @@ namespace SistemaUTN
         frm_AlumnosInscriptos formAlumnosInscriptos;
         frm_OpcionesMateriaAsignarProfesor formOpcionesAsignacion;
         frm_ExportarDatos formExportarDatos;
+        frm_ImportarAlumnos formImportarDatos;
 
         public frm_Administrador()
         {
@@ -57,6 +58,12 @@ namespace SistemaUTN
         {
             formExportarDatos = new frm_ExportarDatos();
             formExportarDatos.ShowDialog();
+        }
+
+        private void btn_ImportarDatos_Click(object sender, EventArgs e)
+        {
+            formImportarDatos = new frm_ImportarAlumnos();
+            formImportarDatos.ShowDialog();
         }
     }
 }

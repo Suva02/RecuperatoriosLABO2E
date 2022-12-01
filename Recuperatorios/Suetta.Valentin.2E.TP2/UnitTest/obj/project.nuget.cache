@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2+BGANN/9H2LE/vRbWEYn4V1x5RbfdEfVgzkW0HV5ob/rVG3pwV6Xa9kcXMFAHoPZjYIQW5OHfz9x+dmB4JdJA==",
+  "dgSpecHash": "y0XxgwaLq8X208cQtL5MjfHsPSQw+AzvufmcMeTaBbqtfzVp0IrBcHr+a1Hz49CnV28zHTlVvOCjuYaXIpVqgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suett\\OneDrive\\Escritorio\\PARCIALES\\Suetta.Valentin.2E\\UnitTest\\UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\UnitTest\\UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suett\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\suett\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

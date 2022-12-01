@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suett\\OneDrive\\Escritorio\\PARCIALES\\Suetta.Valentin.2E\\SistemaUTN\\SistemaUTN.csproj": {}
+    "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\SistemaUTN\\SistemaUTN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suett\\OneDrive\\Escritorio\\PARCIALES\\Suetta.Valentin.2E\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suett\\OneDrive\\Escritorio\\PARCIALES\\Suetta.Valentin.2E\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\suett\\OneDrive\\Escritorio\\PARCIALES\\Suetta.Valentin.2E\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\suett\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suett\\OneDrive\\Escritorio\\PARCIALES\\Suetta.Valentin.2E\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suett\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\suett\\OneDrive\\Escritorio\\PARCIALES\\Suetta.Valentin.2E\\SistemaUTN\\SistemaUTN.csproj": {
+    "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\SistemaUTN\\SistemaUTN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suett\\OneDrive\\Escritorio\\PARCIALES\\Suetta.Valentin.2E\\SistemaUTN\\SistemaUTN.csproj",
+        "projectUniqueName": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\SistemaUTN\\SistemaUTN.csproj",
         "projectName": "SistemaUTN",
-        "projectPath": "C:\\Users\\suett\\OneDrive\\Escritorio\\PARCIALES\\Suetta.Valentin.2E\\SistemaUTN\\SistemaUTN.csproj",
+        "projectPath": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\SistemaUTN\\SistemaUTN.csproj",
         "packagesPath": "C:\\Users\\suett\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suett\\OneDrive\\Escritorio\\PARCIALES\\Suetta.Valentin.2E\\SistemaUTN\\obj\\",
+        "outputPath": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\SistemaUTN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suett\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\suett\\OneDrive\\Escritorio\\PARCIALES\\Suetta.Valentin.2E\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\suett\\OneDrive\\Escritorio\\PARCIALES\\Suetta.Valentin.2E\\Entidades\\Entidades.csproj"
+              "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\Entidades\\Entidades.csproj"
               }
             }
           }
