@@ -19,6 +19,8 @@ namespace SistemaUTN
         frm_AlumnosInscriptos formAlumnosInscriptos;
         frm_OpcionesMateriaAsignarProfesor formOpcionesAsignacion;
         frm_Login formLogin;
+        frm_InscribirAlumnoAMateria formInscribirAlumno;
+        frm_OpcionesEstadisticas formOpcionesEstadisticas;
 
         //Administrador actual
         Administrador administradorLogeado;
@@ -58,6 +60,18 @@ namespace SistemaUTN
         {
             formOpcionesAsignacion = new frm_OpcionesMateriaAsignarProfesor(formLogin);
             formOpcionesAsignacion.ShowDialog();
+        }
+
+        private void btn_InscribirAlumno_Click(object sender, EventArgs e)
+        {
+            formInscribirAlumno = new frm_InscribirAlumnoAMateria(formLogin);
+            formInscribirAlumno.ShowDialog();
+        }
+
+        private void btn_Estadisticas_Click(object sender, EventArgs e)
+        {
+            formOpcionesEstadisticas = new frm_OpcionesEstadisticas(formLogin);
+            formOpcionesEstadisticas.ShowDialog();
         }
     }
 }

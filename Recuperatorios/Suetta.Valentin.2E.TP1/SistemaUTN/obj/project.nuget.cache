@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aFQliLwEhEOgEw78/xvtgZ/MOMlx0pMBWwOAm0V6muMixI2nXZygxzNf6XAMzNk8JRZAR7ssg66JufmIbQAc4Q==",
+  "dgSpecHash": "l3hOkUbmtZA7tH1QuJpL9XxMam+NR3uDTue4EQcdMgsA7rZ7/gji/CYedeXwQRAhsWp1PJtXjb/CQjgztIh09w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\SistemaUTN\\SistemaUTN.csproj",
+  "projectFilePath": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP1\\SistemaUTN\\SistemaUTN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suett\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\suett\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

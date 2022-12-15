@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP1\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP1\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\suett\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP2\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\suett\\OneDrive\\Documentos\\GitHub\\RecuperatoriosLABO2E\\Recuperatorios\\Suetta.Valentin.2E.TP1\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\suett\\AppData\\Roaming\\NuGet\\NuGet.Config",
